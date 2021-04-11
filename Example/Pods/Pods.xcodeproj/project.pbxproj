@@ -139,12 +139,20 @@
 		6E857D1EA5783B2EBCDE095F2A9A8342 /* NewModuleTwo */ = {
 			isa = PBXGroup;
 			children = (
+				715ED93426238D39001386C1 /* Classes */,
 				4235A420FE912480BC6E72415F76E3BA /* Pod */,
 				7E171F3F885295C03E10E429912D3078 /* Support Files */,
-				715ED92C26238B59001386C1 /* Logger.swift */,
 			);
 			name = NewModuleTwo;
 			path = ../..;
+			sourceTree = "<group>";
+		};
+		715ED93426238D39001386C1 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				715ED92C26238B59001386C1 /* Logger.swift */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 		779A34EE44DC85061333603D10C9CA3E /* Pods-NewModuleTwo_Tests */ = {
