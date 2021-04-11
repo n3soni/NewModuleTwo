@@ -1,0 +1,22 @@
+{
+  "name": "NewModuleTwo",
+  "version": "0.1.0",
+  "summary": "A short description of NewModuleTwo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/n3soni@gmail.com/NewModuleTwo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "n3soni@gmail.com": "nitin.soni4@t-mobile.com"
+  },
+  "source": {
+    "git": "https://github.com/n3soni@gmail.com/NewModuleTwo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "NewModuleTwo/Classes/**/*"
+}
