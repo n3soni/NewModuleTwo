@@ -9,6 +9,6 @@ import Foundation
 
 public struct Logger {
     public static func logme() {
-    print("hello Nitin")
+    print("Hello, dear Nitin")
     }
 }
